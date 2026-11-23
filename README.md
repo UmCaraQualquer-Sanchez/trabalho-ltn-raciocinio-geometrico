@@ -13,7 +13,7 @@ Extensão do tutorial de LTNtorch com relações geométricas em 2D e sólidos 3
 
 ## Arquivo principal
 
-`MeuTrabalho_Lab_Metodologias_Ativas_19_11_26_revisado_v4.ipynb`: notebook completo, já executado, com as saídas salvas (treino e consultas).
+`Logic Tensor Networks`: notebook completo, já executado, com as saídas salvas (treino e consultas).
 
 ## Como executar
 
